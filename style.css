@@ -49,7 +49,7 @@ nav {
 #profile {
     margin-bottom: 8rem;
     background: radial-gradient(circle, rgb(4, 189, 245) 0%, rgb(6, 191, 242) 100%);
-    height: 110vh;
+    height: 150vh;
 }
 
 #profile canvas {
